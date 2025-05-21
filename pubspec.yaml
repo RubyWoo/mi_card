@@ -22,8 +22,7 @@ flutter:
 
   assets:
     - images/angela.jpg
-    - images/yadira.jpg
-
+    - images/female-avatar.png
   fonts:
   - family: Pacifico
     fonts:
